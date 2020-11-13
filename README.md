@@ -21,7 +21,7 @@ This is basically a guide on how I manage to develop and easy, step by step and 
 
 
 ## Create New App
-- `laravel new WebChatAPI`
+- `laravel new ProjectNameAPI`
 
 ## Install Laravel UI with Authentication
 1. `composer require laravel/ui`
