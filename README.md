@@ -17,7 +17,8 @@ This is basically a guide on how I manage to develop and easy, step by step and 
 3. AUTHENTICATION - Install tymon/jwt-auth. This guide will use JWT for authentication bearer tokens.
 4. DATABASE DESIGN - Focus on creation of your database structure first. You can go to [dbdesigner](https://www.dbdesigner.net/) to create your database design. It is easy and user friendly. You may use other designer as well. It is up to you.
 5. MIGRATIONS - Once you have a good database design, you can now make use of it as pattern to build your migrations. Create each table migrations now.
-6. 
+6. FACTORY - In order to provide sample test records, create factories for each important master tables/models that you need.
+7. 
 
 
 ## Create New App
